@@ -1,3 +1,4 @@
+<img width="877" height="882" alt="Topology_Diagram" src="https://github.com/user-attachments/assets/98102179-0e72-4da0-b94d-6ecc0bd1b632" />
 // Cisco Packet Tracer VLAN Project
 
     Overview
