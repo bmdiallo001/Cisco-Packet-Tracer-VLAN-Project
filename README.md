@@ -8,6 +8,8 @@ This project demonstrates VLAN segmentation and inter-VLAN routing (Router-on-a-
 - VLAN 15: Engineering (192.168.15.0/24)
 - Router sub-interfaces: Fa0/0.10, Fa0/0.15
 - Switch-01 & Switch-02 with trunk links
+! [Network Topology] (screenshots/topology-diagram.png)
+
 
       Configuration Highlights
 - Created VLANs 10 and 15
